@@ -52,7 +52,7 @@ namespace TobbElem
 
             TobbElemOsztaly a = new TobbElemOsztaly();
 
-            // Szám megadása
+            // Szám megadásaa
             while (paros + paratlan <= 100)
             {
                 Console.WriteLine("Adj meg egy egész számot!");
